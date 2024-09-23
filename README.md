@@ -38,7 +38,7 @@ With the increasing popularity of group travel and the complexity of coordinatin
   * MongoDB for efficient and scalable data storage.
  
 # Server Setup:
-
+To be continued...
 
 # Steps to Run:
 1. Navigate into the client directory cd client.
